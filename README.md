@@ -1,7 +1,7 @@
 ### Hey there! I'm Alexander West👋
 
 🎓 I am currently pursuing a Bachelor of Science in Computer Science at **UCLA**, with an expected graduation in June 2025.  <br />
-🛠️ I'm a Software Engineering Intern at **Code On Time LLC**
+🛠️ I was a Software Engineering Intern at **Code On Time LLC**
 
 📚 My academic journey at UCLA has immersed me in topics ranging from **Algorithms**, **Data Structures**, and **Operating System Principles** to emerging fields like **Distributed Algorithms and Blockchains**. My participation in **Psi Beta Rho** further exposed me to the world of cybersecurity, where I've tackled challenges from events like SquareCTF and EKOParty CTF.
 
