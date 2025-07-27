@@ -1,6 +1,7 @@
 ### Hey there! I'm Alexander West👋
 
-🎓 I am currently pursuing a Bachelor of Science in Computer Science at **UCLA**.  <br />
+🎓 I recently graduated with a Bachelor of Science in Computer Science from **UCLA**.  <br />
+🛠️ I wrote Kubernetes control plane software for a Kafka service as a Software Engineering Intern at **Viasat, Inc.**'s Data Platform. <br />
 🛠️ I was a Software Engineering Intern at **Moebius Solutions, Inc.** developing a reusable geospacial mapping application. <br />
 🛠️ I worked at **Code On Time, LLC**, also as a Software Engineering intern, doing research and development with their APIs.
 
